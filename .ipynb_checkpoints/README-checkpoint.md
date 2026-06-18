@@ -19,4 +19,4 @@ A Machine Learning web application built with Streamlit and Linear Regression.
 - Pandas
 - Scikit-Learn
 - Streamlit
-- cv2
+  

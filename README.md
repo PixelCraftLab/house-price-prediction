@@ -17,6 +17,7 @@ A Machine Learning web application built with Streamlit and Linear Regression.
 ## Tech Stack
 - Python
 - Pandas
+- Numpy
 - Scikit-Learn
 - Streamlit
   
